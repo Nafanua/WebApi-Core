@@ -1,0 +1,29 @@
+D:\Всякое\news-aggregator-angular_api\Api\bin\Debug\netcoreapp2.0\RssCrawleraApi.deps.json
+D:\Всякое\news-aggregator-angular_api\Api\bin\Debug\netcoreapp2.0\RssCrawleraApi.runtimeconfig.json
+D:\Всякое\news-aggregator-angular_api\Api\bin\Debug\netcoreapp2.0\RssCrawleraApi.runtimeconfig.dev.json
+D:\Всякое\news-aggregator-angular_api\Api\bin\Debug\netcoreapp2.0\RssCrawleraApi.dll
+D:\Всякое\news-aggregator-angular_api\Api\bin\Debug\netcoreapp2.0\RssCrawleraApi.pdb
+D:\Всякое\news-aggregator-angular_api\Api\bin\Debug\netcoreapp2.0\DAL.dll
+D:\Всякое\news-aggregator-angular_api\Api\bin\Debug\netcoreapp2.0\DAL.pdb
+D:\Всякое\news-aggregator-angular_api\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.csprojResolveAssemblyReference.cache
+D:\Всякое\news-aggregator-angular_api\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.csproj.CoreCompileInputs.cache
+D:\Всякое\news-aggregator-angular_api\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.AssemblyInfoInputs.cache
+D:\Всякое\news-aggregator-angular_api\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.AssemblyInfo.cs
+D:\Всякое\news-aggregator-angular_api\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.dll
+D:\Всякое\news-aggregator-angular_api\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.pdb
+D:\RSS Crawler .Net Core\Api\bin\Debug\netcoreapp2.0\RssCrawleraApi.deps.json
+D:\RSS Crawler .Net Core\Api\bin\Debug\netcoreapp2.0\RssCrawleraApi.runtimeconfig.json
+D:\RSS Crawler .Net Core\Api\bin\Debug\netcoreapp2.0\RssCrawleraApi.runtimeconfig.dev.json
+D:\RSS Crawler .Net Core\Api\bin\Debug\netcoreapp2.0\RssCrawleraApi.dll
+D:\RSS Crawler .Net Core\Api\bin\Debug\netcoreapp2.0\RssCrawleraApi.pdb
+D:\RSS Crawler .Net Core\Api\bin\Debug\netcoreapp2.0\DAL.dll
+D:\RSS Crawler .Net Core\Api\bin\Debug\netcoreapp2.0\DAL.pdb
+D:\RSS Crawler .Net Core\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.csproj.CoreCompileInputs.cache
+D:\RSS Crawler .Net Core\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.AssemblyInfoInputs.cache
+D:\RSS Crawler .Net Core\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.AssemblyInfo.cs
+D:\RSS Crawler .Net Core\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.dll
+D:\RSS Crawler .Net Core\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.pdb
+D:\RSS Crawler .Net Core\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.csprojResolveAssemblyReference.cache
+D:\RSS Crawler .Net Core\Api\obj\Debug\netcoreapp2.0\RssCrawleraApi.csproj.CopyComplete
+D:\RSS Crawler .Net Core\Api\bin\Debug\netcoreapp2.0\Migrations.dll
+D:\RSS Crawler .Net Core\Api\bin\Debug\netcoreapp2.0\Migrations.pdb
